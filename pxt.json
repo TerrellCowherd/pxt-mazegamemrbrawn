@@ -1,7 +1,8 @@
 {
     "name": "mazegamemrbrawn",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
